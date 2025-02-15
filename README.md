@@ -1,7 +1,7 @@
 # Hi there, I'm Sivakumar Selvaraj 👋
 
 ![Banner](![github-header-image](https://github.com/user-attachments/assets/d19f8e3c-b269-44ff-a9a2-6345a1c37479)
-) ![Computer GIF](https://your-gif-link.com/computer.gif)
+) ![Computer GIF](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif)
 
 Welcome to my GitHub profile! I'm a passionate **Frontend Developer** who loves creating interactive and visually appealing web experiences. 🚀
 
