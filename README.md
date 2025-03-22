@@ -45,10 +45,9 @@ Check out my repositories for more awesome projects! 📂
 
 ## 📫 Connect With Me
 
-- 🌍 Portfolio: [Your Portfolio Link]
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 🐦 Twitter: [Your Twitter Handle]
-- 📧 Email: [Your Email Address]
+- 🌍 Portfolio: https://sivakumarselvaraj2003.github.io/Personal-Portfolio/
+- 💼 LinkedIn: www.linkedin.com/in/sivakumarselvaraj2003 
+- 📧 Email: siva4kumar2003@gmail.com
 
 ## 🚀 Fun Fact
 
