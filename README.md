@@ -1,177 +1,164 @@
 <div align="center">
 
-<a href="https://sivakumarselvaraj2003.github.io/My-Portfolio/">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1a1a2e,100:16213e&height=200&section=header&text=SIVAKUMAR%20SELVARAJ&fontSize=40&fontColor=00ff88&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Product%20Engineer%20%E2%80%A2%20Performance%20Obsessed%20%E2%80%A2%20Zero%20Bloat&descAlignY=58&descSize=14&descColor=888888" width="100%"/>
+<!-- HERO BANNER — full-width cinematic opener -->
+<a href="https://sivakumarselvaraj2003.github.io/My-Portfolio/" target="_blank">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0d0d,40:0a192f,70:0d2137,100:000000&height=280&section=header&text=SIVAKUMAR%20SELVARAJ&fontSize=52&fontColor=00ffa3&animation=blinking&fontAlignY=45&rotate=0&stroke=00ffa3&strokeWidth=1&desc=Full%E2%80%93Stack%20Product%20Engineer%20%E2%80%A2%20%F0%9F%9A%80%203%C3%97%20Promoted%20in%209%20Months&descSize=15&descColor=8892b0&descAlignY=67" width="100%"/>
 </a>
+
+<br/>
+
+<!-- TYPING EFFECT HEADLINE -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FFA3&center=true&vCenter=true&width=700&height=60&lines=100%2F100+Lighthouse.+Every+single+ship.;35kb+bundle.+Zero+dependencies.+Full+features.;%231+on+Google.+Not+luck.+Technical+SEO.;Trainee+%E2%86%92+Lead+Frontend+in+9+months.;I+don%27t+write+code.+I+build+products.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<img align="right" width="340" src="https://res.cloudinary.com/dx4iqmisv/image/upload/v1774368084/Gemini_Generated_Image_pa8dctpa8dctpa8d_kmn5ni.webp" alt="Sivakumar Selvaraj"/>
+<!-- BIO SECTION -->
+<img align="right" width="300" style="border-radius:16px;margin-left:24px" src="https://res.cloudinary.com/dx4iqmisv/image/upload/v1774368084/Gemini_Generated_Image_pa8dctpa8dctpa8d_kmn5ni.webp" alt="Sivakumar Selvaraj — Product Engineer"/>
 
-### `> whoami`
+### The Engineer Who Refuses to Ship Slow
 
-I'm **Sivakumar Selvaraj** — a Full-Stack Product Engineer who treats performance like a religion and bundle size like a personal insult.
+I'm **Sivakumar** — a Full-Stack Product Engineer at **[Noxlay](http://noxlay.in/)** with a simple rule: if it's not fast, it doesn't ship.
 
-I don't just write code. I architect products.
+100/100 Lighthouse isn't a goal — **it's the floor**.
 
-Currently **Lead Frontend Engineer @ [Noxlay](http://noxlay.in/)** — promoted **3 times in 9 months**, trainee to lead, by delivering things that matter: fast, clean, and production-ready.
+35kb bundle size isn't minimalism — **it's discipline**.
 
-```bash
-$ curl https://siva.dev/status
+#1 on Google isn't luck — **it's technical SEO done right**.
 
-{
-  "role"       : "Lead Frontend & Full-Stack Engineer",
-  "company"    : "Noxlay",
-  "promotions" : "3× in 9 months 🚀",
-  "lighthouse" : "100 / 100",
-  "bundle_kb"  : 35,
-  "google_rank": "#1",
-  "available"  : true
-}
-```
+Promoted **3 times in 9 months** — trainee to Lead Frontend Logic — by shipping things that work perfectly, every time.
 
 <br clear="right"/>
 
 ---
 
-## `> ./metrics --show-all`
-
+<!-- THE BIG NUMBERS — visual punch -->
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="160">
-<img src="https://img.shields.io/badge/100-Lighthouse-FF6D00?style=for-the-badge&logo=googlechrome&logoColor=white" /><br/>
-<sub><b>Perfect Score. Every Ship.</b></sub>
-</td>
-<td align="center" width="160">
-<img src="https://img.shields.io/badge/35kb-Bundle_Size-00C853?style=for-the-badge" /><br/>
-<sub><b>Zero Bloat. Zero Deps.</b></sub>
-</td>
-<td align="center" width="160">
-<img src="https://img.shields.io/badge/%231-Google_Rank-4285F4?style=for-the-badge&logo=google&logoColor=white" /><br/>
-<sub><b>Technical SEO That Works</b></sub>
-</td>
-<td align="center" width="160">
-<img src="https://img.shields.io/badge/3×-Promoted-7B2FBE?style=for-the-badge" /><br/>
-<sub><b>Trainee → Lead in 9 Months</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/+30%25-Efficiency-00BCD4?style=for-the-badge" /><br/>
-<sub><b>AI-Augmented Delivery</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/10+-Platforms_Shipped-FF4081?style=for-the-badge" /><br/>
-<sub><b>Commercial. Live. Real Users.</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/2_Person-Team_Lead-FF6D00?style=for-the-badge" /><br/>
-<sub><b>End-to-End Product Ownership</b></sub>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Full_Stack-PHP%20%2F%20Node%20%2F%20React-00ff88?style=for-the-badge" /><br/>
-<sub><b>Frontend & Backend</b></sub>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## `> git log --career --oneline`
-
-```
-9 months ago    🟢 PROMOTED  →  Lead Frontend Logic Engineer
-                   ├── Architected database systems from scratch
-                   ├── Drove end-to-end UI/UX for SaaS products
-                   └── Aligned technical decisions with market demand
-
-6 months ago    🟡 PROMOTED  →  Frontend Engineer
-                   ├── Took full ownership of UI/UX architecture
-                   ├── Shipped #1-ranked SEO for commercial products
-                   └── Built PHP/Node.js backends for production scale
-
-3 months in     🔵 PROMOTED  →  Junior Engineer
-                   ├── Delivered first commercial features
-                   └── Onboarded and already outperforming expectations
-
-Day 1           ⚪ JOINED    →  Trainee @ Noxlay
-```
-
-> *"Promoted 3 times in 9 months. Not by working harder — by building things that actually work."*
-
----
-
-## `> ls -la ./engineering-dna`
-
-<div align="center">
-
-| Layer | Stack | Mastery |
-|-------|-------|---------|
-| 🎨 **Frontend** | HTML5 · CSS3 · JavaScript · React | ████████████ Expert |
-| ⚙️ **Backend** | Node.js · PHP | █████████░░░ Advanced |
-| 🗄️ **Database** | MySQL · Database Architecture | █████████░░░ Advanced |
-| 🔍 **SEO** | Technical SEO · Core Web Vitals · Lighthouse | ████████████ Expert |
-| 🤖 **AI Workflows** | AI-Augmented Development (+30% velocity) | ████████████ Expert |
-| 📦 **Optimization** | Zero-bloat · 35kb bundles · Perf engineering | ████████████ Expert |
-
-</div>
-
----
-
-## `> cat ./philosophy.txt`
-
-```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   "I measure success in milliseconds, not features."    ║
-║                                                          ║
-║   Performance is not a phase. It's the standard.        ║
-║   A 100/100 Lighthouse score isn't a goal —             ║
-║   it's the floor.                                       ║
-║                                                          ║
-║   35kb bundle. #1 on Google. 3 promotions in 9 months. ║
-║   These aren't lucky outcomes.                          ║
-║   They're what happens when you refuse to ship garbage.  ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
-```
-
----
-
-## `> ping --connect`
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🚀_Live_Portfolio-Visit_Now-00ff88?style=for-the-badge&labelColor=0d1117)](https://sivakumarselvaraj2003.github.io/My-Portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sivakumarselvaraj2003/)
-[![Gmail](https://img.shields.io/badge/Gmail-Hire_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siva4kumar2003@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SivakumarSelvaraj2003)
+## `⚡ Numbers That Don't Lie`
 
 <br/>
 
-**Open to high-impact roles in frontend, full-stack, and product engineering.**<br/>
-*If you care about performance, clean code, and shipping products that win on Google — let's talk.*
+[![100](https://img.shields.io/badge/100%2F100-LIGHTHOUSE%20SCORE-000000?style=for-the-badge&labelColor=FF6D00&color=000000&logo=googlechrome&logoColor=white)](https://sivakumarselvaraj2003.github.io/My-Portfolio/)
+[![35kb](https://img.shields.io/badge/35kb-BUNDLE%20SIZE-000000?style=for-the-badge&labelColor=00C853&color=000000)](https://sivakumarselvaraj2003.github.io/My-Portfolio/)
+[![#1](https://img.shields.io/badge/%231-GOOGLE%20RANKING-000000?style=for-the-badge&labelColor=4285F4&color=000000&logo=google&logoColor=white)](https://sivakumarselvaraj2003.github.io/My-Portfolio/)
 
 <br/>
 
-<a href="https://drive.google.com/file/d/1gEQAQ-JMCAWnm0aYPIt-HwBvCzsD6LfO/view?usp=drive_link">
-<img src="https://img.shields.io/badge/📄_Download_Resume-Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
-</a>
+[![3x](https://img.shields.io/badge/3%C3%97-PROMOTED%20IN%209%20MONTHS-000000?style=for-the-badge&labelColor=7B2FBE&color=000000)](https://sivakumarselvaraj2003.github.io/My-Portfolio/)
+[![+30%](https://img.shields.io/badge/%2B30%25-DELIVERY%20EFFICIENCY-000000?style=for-the-badge&labelColor=00BCD4&color=000000)](https://sivakumarselvaraj2003.github.io/My-Portfolio/)
+[![10+](https://img.shields.io/badge/10%2B-PLATFORMS%20SHIPPED-000000?style=for-the-badge&labelColor=FF4081&color=000000)](https://sivakumarselvaraj2003.github.io/My-Portfolio/)
 
 </div>
 
 ---
 
+<!-- CAREER TIMELINE — the most original section -->
+## `📡 Career Signal`
+
+```
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  NOXLAY  ·  Full-Stack Product Engineer
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  ◉ DAY 1          Trainee Engineer
+    └─ Status: unknown, unproven, ready.
+
+  ◉ MONTH 3        ↑ PROMOTED  →  Junior Engineer
+    └─ Shipped first commercial features ahead of deadline.
+
+  ◉ MONTH 6        ↑ PROMOTED  →  Frontend Engineer  
+    └─ Took ownership of full UI/UX architecture.
+    └─ Drove SEO to #1 on Google for commercial products.
+    └─ Scaled PHP/Node.js backends for production traffic.
+
+  ◉ MONTH 9        ↑ PROMOTED  →  Lead Frontend Logic Engineer
+    └─ Architecting database systems from scratch.
+    └─ End-to-end product decisions: UI, DB, market fit.
+    └─ Leading in a high-velocity 2-person product team.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  RESULT: 3 Promotions · 9 Months · 0 Slowing Down
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+<!-- TECH STACK — styled as a system readout -->
+## `🧬 Engineering DNA`
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0a0a0a&height=100&section=footer&text=Built%20for%20speed.%20Shipped%20with%20precision.&fontSize=14&fontColor=00ff88&animation=fadeIn" width="100%"/>
+| Domain | Stack | Signal |
+|--------|-------|--------|
+| **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | `EXPERT` |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | `ADVANCED` |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | `ADVANCED` |
+| **Performance** | `Lighthouse 100` · `35kb bundle` · `Zero deps` | `OBSESSED` |
+| **SEO** | `Core Web Vitals` · `Technical SEO` · `#1 Rank` | `PROVEN` |
+| **AI Dev** | `AI-Augmented Workflows` · `+30% velocity` | `ACTIVE` |
 
-![Visitor Count](https://komarev.com/ghpvc/?username=SivakumarSelvaraj2003&color=00ff88&style=flat-square&label=Profile+Views)
+</div>
+
+---
+
+<!-- PHILOSOPHY SECTION — the emotional hook -->
+## `💡 The Standard`
+
+> **"Performance is not a feature. It's a promise.**
+> Every line I write either earns its place or gets deleted.
+> A 100/100 Lighthouse score isn't impressive — it's expected.
+> A 35kb bundle isn't minimalist — it's respectful of users.
+> A #1 Google ranking isn't SEO magic — it's engineering discipline.
+> I was promoted 3 times in 9 months not because I worked hard,
+> but because I shipped things that **worked perfectly**."**
+>
+> — Sivakumar Selvaraj
+
+---
+
+<!-- GITHUB STATS — visual proof -->
+## `📊 Live Stats`
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=SivakumarSelvaraj2003&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00ffa3&icon_color=00ffa3&text_color=8892b0&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SivakumarSelvaraj2003&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=00ffa3&text_color=8892b0" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=SivakumarSelvaraj2003&theme=midnight-purple&hide_border=true&background=0d1117&stroke=00ffa3&ring=00ffa3&fire=FF6D00&currStreakLabel=00ffa3&sideLabels=8892b0&dates=8892b0" width="500"/>
+
+</div>
+
+---
+
+<!-- CONTACT — the closer -->
+## `🔗 Initialize Handshake`
+
+<div align="center">
+
+*Direct lines. No noise. Ready to build.*
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🚀_Live_Portfolio-sivakumarselvaraj2003.github.io-00ffa3?style=for-the-badge&labelColor=0d1117)](https://sivakumarselvaraj2003.github.io/My-Portfolio/)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/sivakumarselvaraj2003/)
+[![Gmail](https://img.shields.io/badge/Gmail-siva4kumar2003@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:siva4kumar2003@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Download_PDF-00C853?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0d1117)](https://drive.google.com/file/d/1gEQAQ-JMCAWnm0aYPIt-HwBvCzsD6LfO/view?usp=drive_link)
+
+<br/>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0a192f,100:0d0d0d&height=120&section=footer&text=Built+for+speed.+Shipped+with+precision.&fontSize=14&fontColor=00ffa3&animation=fadeIn" width="100%"/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=SivakumarSelvaraj2003&color=00ffa3&style=flat-square&label=Profile+Views)
 
 </div>
